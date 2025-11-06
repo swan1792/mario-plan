@@ -1,0 +1,13 @@
+marioplan:
+
+technology:
+#materialzecss
+
+folder:
+component:
+    auth: Sign.js,SignUp.js, 
+    dashboard:Dashboard,Notifications, 
+    layout:
+    projects: CreateProject, ProjectDetails, ProjectList, ProjectSummary
+    layout: Navbar.js, SignInLink, SignOutLink, 
+ 
