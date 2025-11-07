@@ -40,4 +40,4 @@
 
 8. Create Project Form
 
-9. 
+9. npm install redux , react-redux
